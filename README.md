@@ -1,6 +1,6 @@
 # CMPE279_Assignments
 
-# Individual Assignment 
+## Individual Assignment 
 
-# Yanzhou Zhang
-# SID: 009534642
+### Yanzhou Zhang
+### SID: 009534642
