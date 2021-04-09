@@ -68,6 +68,11 @@ int main(int argc, char const *argv[])
     	printf("Hello message sent\n");
     	printf("End of child process \n");
     }
+    else if (pid < 0)
+    {
+    	perror("Fork Error");
+    	exit(EXIT_FAILURE);
+    }
     else
     {
     	wait(NULL);
